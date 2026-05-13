@@ -2,7 +2,7 @@
 ### A Comparative Study of Classification Models and Trading Performance
 
 > **DATA 300: Statistical and Machine Learning** · Dickinson College · Spring 2026  
-> **Authors:** Jules Dao · Rose Nguyen · Group 1
+> **Authors:** Jules Dao · Rose Nguyen · Group 3
 
 ---
 
