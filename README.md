@@ -105,8 +105,3 @@ Volatility-parity framework: each stock is weighted by the inverse of its predic
 - Asness, Frazzini & Pedersen (2012). Risk Parity.
 - Salt Financial (n.d.). *Volatility Forecasting Guide.*
 
----
-
-## License
-
-This project was completed for academic purposes at Dickinson College. Not intended for commercial use.
